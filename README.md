@@ -1,2 +1,2 @@
 # STM32F407_Projects
-First projects on CORTEX M4 microcontroller
+First projects on the CORTEX M4 microcontroller

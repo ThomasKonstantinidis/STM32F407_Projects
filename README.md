@@ -4,5 +4,3 @@ First projects on the CORTEX M4 microcontroller
 ****
 
 ![](STM32.jpg)
-
-****
